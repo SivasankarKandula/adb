@@ -1,4 +1,8 @@
 -- Databricks notebook source
+#testing 
+
+-- COMMAND ----------
+
 set spark.databricks.delta.commitValidation.enabled = False
 
 -- COMMAND ----------
